@@ -32,6 +32,6 @@ while True:
 
 # destroy and release the camera etc
 video_capture.release()
-cv2.destroyAllwindows()
+cv2.destroyAllWindows()
 
 
